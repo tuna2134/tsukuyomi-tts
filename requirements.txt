@@ -1,5 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch torchaudio
 style-bert-vits2
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 scipy
 fastapi
 uvicorn[standard]

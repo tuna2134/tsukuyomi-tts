@@ -1,5 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch torchaudio
+torch
+torchaudio
 style-bert-vits2
 scipy
 fastapi
